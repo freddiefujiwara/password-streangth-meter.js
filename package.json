@@ -1,0 +1,18 @@
+{
+  "name": "password-streangth-meter.js",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "./node_modules/.bin/grunt"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt-cli": "~0.1.9",
+    "grunt": "~0.4.1",
+    "grunt-simple-mocha": "~0.4.0",
+    "grunt-contrib-coffee": "~0.7.0",
+    "should": "~1.2.2"
+  }
+}
+
